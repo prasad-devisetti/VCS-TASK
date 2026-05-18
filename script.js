@@ -1,2 +1,2 @@
 <<<<<<< HEAD
-console.log("main and feature merged");
+console.log("main latest update");
