@@ -1,1 +1,2 @@
-console.log("main branch update");
+<<<<<<< HEAD
+console.log("main and feature merged");
