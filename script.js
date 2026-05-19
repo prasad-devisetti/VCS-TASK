@@ -28,4 +28,4 @@ console.log("today feature branch update");
 
 
 console.log("today feature branch update");
-This is Normal merge
+This is Normal merge and last merge
